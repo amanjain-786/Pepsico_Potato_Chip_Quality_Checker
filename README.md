@@ -11,12 +11,12 @@ It could be seen that the latter gives much better results.
 * [PepsiCo Lab Potato Chips Quality](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)
 
 
-## Result
-### * Using First approach 
+## Results
+### Using First approach 
 ![accuracy_plot](https://github.com/amanjain-786/Pepsico_Potato_Chip_Quality_Checker/blob/main/readMe_pics/accuracy_1st.png)
 
-### * Using Second approach
-      * Accuracy Plot
-      ![accuracy_plot](https://github.com/amanjain-786/Pepsico_Potato_Chip_Quality_Checker/blob/main/readMe_pics/accuracy_2nd.png)
-      * Confusion Matrix
-      ![confusion matrix](https://github.com/amanjain-786/Pepsico_Potato_Chip_Quality_Checker/blob/main/readMe_pics/confusion_matrix_2nd.png)
+### Using Second approach
+* Accuracy Plot
+![accuracy_plot](https://github.com/amanjain-786/Pepsico_Potato_Chip_Quality_Checker/blob/main/readMe_pics/accuracy_2nd.png)
+* Confusion Matrix
+![confusion matrix](https://github.com/amanjain-786/Pepsico_Potato_Chip_Quality_Checker/blob/main/readMe_pics/confusion_matrix_2nd.png)
